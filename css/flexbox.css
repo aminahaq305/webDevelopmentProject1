@@ -1,0 +1,9 @@
+main {
+  display:  flex; 
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+figure {    
+  flex-basis:  150px;    
+  background-color: lightgoldenrodyellow;    
+}

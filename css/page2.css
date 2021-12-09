@@ -1,0 +1,28 @@
+main {
+  text-align: center;
+}
+p {
+  background-image: url("../images/mountains1.jpg");
+  width:500px;
+  height:333px;
+  margin-left: 400px;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+p:hover{
+  background-image: url("../images/mountains2.jpg");
+}
+img:nth-of-type(2) {
+  filter: sepia(100%);
+}
+img:nth-of-type(4) {
+  filter: invert(100%);
+}
+img:nth-of-type(5):hover {
+  transform: skewX(60deg);
+  transition: 2s;
+}
+img:nth-of-type(6):hover {
+  transform: translateX(40px);
+  transition: 2s;
+}
