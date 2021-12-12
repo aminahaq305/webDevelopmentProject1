@@ -1,5 +1,5 @@
 # Web Development Project 1: A simple HTML/CSS website to demonstrate different image manipulation techniques
-This project was completed as part of the CSS2800: Web Development 1 course offered at Wright State University in Fall 2019. <br />
+This project was completed as part of the CS2800: Web Development 1 course offered at Wright State University in Fall 2019. <br />
 This simple collection of webpages demonstrates the integration of the following: <br />
 1. Flexbox Page
 2. Rollover Image
